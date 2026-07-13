@@ -22,8 +22,7 @@
 
 ## Stats
 
-[![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mreidt&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreidt&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Matheus's GitHub metrics](../main/github-metrics.svg)
 
 ## Connect
 
